@@ -3,7 +3,7 @@ var typeData = new Typed(".role", {
         "Developer",
         "Full-stack Developer",
         "Java Developer",
-        "React Js Designer",
+        "React Js Developer",
         "Coder",
     ],
     loop: true,
