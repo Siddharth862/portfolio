@@ -1,9 +1,9 @@
 var typeData = new Typed(".role", {
     strings: [
         "Developer",
-        "Frontend Developer",
-        "Web Developer",
-        "UI-UX Designer",
+        "Full-stack Developer",
+        "Java Developer",
+        "React Js Designer",
         "Coder",
     ],
     loop: true,
